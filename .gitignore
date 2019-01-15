@@ -4,7 +4,7 @@ logs
 npm-debug.log*
 
 # Node.js
-frontend/node_modules/
+frontEnd/node_modules/
 
 
 # Python
